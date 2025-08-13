@@ -1,0 +1,6 @@
+total 1064
+-rw-r--r--  1 home  staff      20  7 Aug 15:25 README.md
+-rw-r--r--  1 home  staff     977 13 Aug 09:03 systemStorage.txt
+-rw-r--r--  1 home  staff  529329 13 Aug 09:09 cpuUsage.txt
+-rw-r--r--  1 home  staff      39 13 Aug 09:30 currentDirectory.txt
+-rw-r--r--  1 home  staff       0 13 Aug 09:32 fileList.txt
